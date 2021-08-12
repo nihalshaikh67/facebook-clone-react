@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/facebook-clone-react/static/css/main.b84cc2bf.chunk.css",
+    "main.js": "/facebook-clone-react/static/js/main.18469db6.chunk.js",
+    "main.js.map": "/facebook-clone-react/static/js/main.18469db6.chunk.js.map",
+    "runtime-main.js": "/facebook-clone-react/static/js/runtime-main.0b8b1a88.js",
+    "runtime-main.js.map": "/facebook-clone-react/static/js/runtime-main.0b8b1a88.js.map",
+    "static/js/2.b2a23523.chunk.js": "/facebook-clone-react/static/js/2.b2a23523.chunk.js",
+    "static/js/2.b2a23523.chunk.js.map": "/facebook-clone-react/static/js/2.b2a23523.chunk.js.map",
+    "index.html": "/facebook-clone-react/index.html",
+    "static/css/main.b84cc2bf.chunk.css.map": "/facebook-clone-react/static/css/main.b84cc2bf.chunk.css.map",
+    "static/js/2.b2a23523.chunk.js.LICENSE.txt": "/facebook-clone-react/static/js/2.b2a23523.chunk.js.LICENSE.txt",
+    "static/media/Nihal-pic.ab0aa24c.jpg": "/facebook-clone-react/static/media/Nihal-pic.ab0aa24c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8b1a88.js",
+    "static/js/2.b2a23523.chunk.js",
+    "static/css/main.b84cc2bf.chunk.css",
+    "static/js/main.18469db6.chunk.js"
+  ]
+}
